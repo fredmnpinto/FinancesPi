@@ -1,0 +1,181 @@
+               20/11/30                                              CONTA:       45572639426
+
+
+
+
+                      EXTRATO COMBINADO
+                                N. 2020/006
+CE05666/01
+
+
+
+
+                                                                                     MOEDA BASE: EURO
+
+                                                                                     IBAN: PT50 0033 0000 4557 2639 4260 5
+                                                                                   #S#                                   #E#
+
+
+
+
+                                                                                     BIC/SWIFT: BCOMPTPL
+
+
+             RESUMO DO EXTRATO
+                                                                              SALDOS CREDORES               SALDOS DEVEDORES
+                  DEPOSITOS A ORDEM                                                     372.36
+                  DEPOSITOS A PRAZO                                                     200.00
+
+
+             NOS TERMOS DA LEGISLACAO EM VIGOR CONFIRMAMOS QUE OS DEPOSITOS CONTRATADOS SAO GARANTIDOS PELO FUNDO DE
+             GARANTIA DE DEPOSITOS NOS TERMOS CONSTANTES DO FORMULARIO DE INFORMACAO DO DEPOSITANTE (FID)
+             DISPONIBILIZADO ANUALMENTE A TODOS OS DEPOSITANTES E PERMANENTEMENTE ACESSIVEL PARA CONSULTA EM QUALQUER
+             SUCURSAL E EM WWW.MILLENNIUMBCP.PT.
+             NOS TERMOS DA LEGISLACAO EM VIGOR, HA ENTIDADES E/OU DEPOSITOS QUE ESTAO EXCLUIDOS DA GARANTIA DE
+             REEMBOLSO DE DEPOSITOS, SENDO ESSES DEPOSITANTES INFORMADOS INDIVIDUALMENTE DA EXCLUSAO NO MOMENTO DA
+             CELEBRACAO DO CONTRATO DE ABERTURA DE CONTA OU NO MOMENTO EM QUE O BANCO TOME        CONHECIMENTO DAS
+             SITUACOES QUE MOTIVARAM ESSA EXCLUSAO.
+             PODERA OBTER MAIS INFORMACOES EM WWW.FGD.PT.
+             MENSAGEM
+
+                          *** NESTE NATAL CONTINUAMOS AQUI CONTIGO ***
+                          SENDO O NOSSO COMPROMISSO CONTINUAR A SERVIR-TE COM A QUALIDADE E
+                          EXCELENCIA DE SEMPRE, RECORDAMOS QUE ESTAMOS DISPONIVEIS PARA TE
+                          RECEBER NAS NOSSAS SUCURSAIS, GARANTINDO TODAS AS CONDICOES DE
+                          SEGURANCA.
+                          EM ALTERNATIVA, TENS TAMBEM A TUA DISPOSICAO UM CONJUNTO ALARGADO DE
+                          CANAIS DE CONTACTO, TRANSACAO E SERVICO REMOTOS, AOS QUAIS PODERAS
+                          ACEDER EM QUALQUER LUGAR.
+                          NESTE NATAL MANTEM-TE PROTEGIDO.
+                          O MILLENNIUM BCP DESEJA-TE BOAS FESTAS A TI E A TODA A FAMILIA!
+
+
+
+             MILLENNIUM 18-30                   N. 45572639426                                          MOEDA: EUR
+
+             EXTRATO DE 2020/10/01 A 2020/11/30
+
+             DATA DATA
+             LANC. VALOR DESCRITIVO                                             DEBITO           CREDITO             SALDO
+                         SALDO INICIAL                                                                               131.67
+             10.01 10.01 TRF DE GUILHERME NACARATO CS                                              17.00             148.67
+             10.02 10.02 COMPRA 3128 CONTINENTE MAIA 4425-11 CONTACTLESS           4.50                              144.17
+             10.02 10.02 COMPRA 3128 BAGGA MAIA MAIA         CONTACTLESS           2.65                              141.52
+             10.05 10.05 COMPRA 3128 CONTINENTE MAIA 4425-11 CONTACTLESS           4.78                              136.74
+                          A TRANSPORTAR                                                                              136.74
+
+
+             SUCURSAL :   MILLENNIUM BCP
+             Centro de Contactos: 707 50 24 24 / 91 827 24 24 / 93 522 24 24 / 96 599 24 24
+  20/11/30                                                   CONTA:    45572639426                    PAG:     002
+
+
+
+
+DATA DATA
+LANC. VALOR DESCRITIVO                                                DEBITO         CREDITO                 SALDO
+            TRANSPORTE                                                                                       136.74
+10.09   10.09   COMPRA 3128 RE V N GAIA V N GAIA                       20.00                                 116.74
+10.12   10.12   COMPRA 3128 MC DONALDS 4200-163 PAR CONTACTLESS        10.20                                 106.54
+10.12   10.12   COMPRA 3128 BURGER KING NO DO FO440 CONTACTLESS         3.98                                 102.56
+10.12   10.12   TRF MB WAY P/ *****9829                                 2.00                                 100.56
+10.12   10.12   TRF MB WAY P/ *****9829                                 2.00                                  98.56
+10.12   10.12   COMPRA 3128 DATAREDE, S.A. RIBEIRA CONTACTLESS          4.20                                  94.36
+10.12   10.12   LEV ATM 3128 CGD   Porto         Univ Fernando         10.00                                  84.36
+10.14   10.14   COMPRA 3128 MERCPAGO GCMGAME BRL TC    0.1558417       17.18                                  67.18
+10.14   10.14   CUSTO DE SERVICO INTERNACIONAL                          0.52                                  66.66
+10.14   10.14   IMPOSTO DO SELO                                         0.02                                  66.64
+10.22   10.22   COMPRA 3128 UBER EATS HELP.UBER.COMPR                  15.50                                  51.14
+10.23   10.23   COMPRA 3128 FARMACIA DE 4400-571 V N GAIA               5.95                                  45.19
+10.23   10.23   COMPRA 3128 ITALIAN REPUBLIC VILA N CONTACTLESS         6.35                                  38.84
+10.26   10.26   COMPRA 3128 OLA ARRABIDA VILA NOVA CONTACTLESS          3.50                                  35.34
+10.26   10.26   COMPRA 3128 GRAFMINUTO VILA NOVA DE GAIA                3.40                                  31.94
+10.26   10.26   COMPRA 3128 100 MONTADITOS SHOPPING - V N GAIA          6.00                                  25.94
+10.26   10.26   COMPRA 3128 RE V N GAIA V N GAIA                       20.00                                   5.94
+10.26   10.26   COMPRA 3128 BURGER KING NO DO FO4400-000 LG.LAV         3.98                                   1.96
+10.26   10.26   TRF DE Alex                                                           100.00                 101.96
+10.29   10.29   TRANSFERENCIA - VENCIMENTO                                            266.67                 368.63
+10.30   10.30   COMPRA 3128 CONTINENTE MAIA 4425-11 CONTACTLESS         4.77                                 363.86
+10.30   10.30   LEV ATM 3128 BPI   Maia          Modelo-Maia           50.00                                 313.86
+10.30   11.02   COM.MANUTENCAO CONTA PACOTE MILLENNIUM GO               3.50                                 310.36
+10.30   11.02   IMPOSTO SELO ART 17.3.4                                 0.14                                 310.22
+11.02   11.02   COMPRA 3128 CONTINENTE MAIA 4425-11 CONTACTLESS         5.99                                 304.23
+11.02   11.02   COMPRA 3128 CONTINENTE MAIA 4425-11 CONTACTLESS         8.27                                 295.96
+11.02   11.02   CONSTITUICAO POUPANCA ORDENADO 3112252955             150.00                                 145.96
+11.03   11.03   COMPRA 3128 BURGER KING 4445-407 ER CONTACTLESS         3.48                                 142.48
+11.04   11.04   TRF MB WAY DE BARBARA NACARATO                                         25.00                 167.48
+11.05   11.05   PAG SERV 12142/225023342 EUPAGO INSTITUICAO PAG        12.70                                 154.78
+11.05   11.05   CONSTITUICAO POUPANCA ORDENADO 3112634650              50.00                                 104.78
+11.06   11.06   COMPRA 3128 RE V N GAIA V N GAIA    CONTACTLESS        20.00                                  84.78
+11.06   11.06   COMPRA 3128 UBER EATS HELP.UBER.CO help.uber.co        13.50                                  71.28
+11.09   11.09   COMPRA 3128 100 MONTADITOS SHOPPING - V N GAIA          7.00                                  64.28
+11.09   11.09   COMPRA 3128 AUCHAN GAIA VILA NOVA G CONTACTLESS         5.98                                  58.30
+11.09   11.09   LEV ATM 3128 CGD   Porto         Univ Fernando         10.00                                  48.30
+11.13   11.13   COMPRA 3128 MERCPAGO GCMGAME BRL TC    0.1608746        4.12                                  44.18
+11.13   11.13   CUSTO DE SERVICO INTERNACIONAL                          0.12                                  44.06
+11.16   11.16   COMPRA 3128 LILIANA PATRICIA CABAGU CONTACTLESS        10.00                                  34.06
+11.16   11.16   COMPRA 3128 PLURICOSMETICA LDA TELF 223753749          30.65                                   3.41
+11.16   11.15   TRF MB WAY DE BARBARA NACARATO                                         18.00                  21.41
+11.20   11.20   COMPRA 3128 MINIPRECO 4420 PORTO                        1.09                                  20.32
+11.20   11.20   COMPRA 3128 CONTINENTE 4000-000 V N CONTACTLESS         3.36                                  16.96
+11.20   11.20   COMPRA 3128 BURGER KING 4404-504 V CONTACTLESS          3.49                                  13.47
+11.23   11.20   TRF MB WAY DE BARBARA NACARATO                                         11.22                  24.69
+11.23   11.23   PAG SERV 10511/120656021 PORTO EDITORA, S.A            11.22                                  13.47
+11.23   11.23   COMPRA 3128 MERCADONA CANIDELO VILA CONTACTLESS         2.60                                  10.87
+11.23   11.23   TRF MB WAY DE BARBARA NACARATO                                          5.00                  15.87
+11.23   11.23   COMPRA 3128 RE V N GAIA V N GAIA                       10.00                                   5.87
+11.27   11.27   COMPRA 3128 MINIPRECO 4420 PORTO    CONTACTLESS         1.09                                   4.78
+11.27   11.27   TRANSFERENCIA - VENCIMENTO                                            400.00                 404.78
+11.30   11.30   TRF MB WAY P/ *****9829                                 5.00                                 399.78
+11.30   11.30   COMPRA 3128 PINGO DOCE MAIA AGUAMAI CONTACTLESS         3.78                                 396.00
+11.30   11.30   LEV ATM 3128 CGD   MAIA          Posto BP Aguas        10.00                                 386.00
+11.30   11.30   TRF MB WAY P/ *****9829                                10.00                                 376.00
+11.30   11.30   PAG SERV 11604/906956350 IFTHENPAY LDA                 14.80                                 361.20
+11.30   11.29   TRF MB WAY DE BARBARA NACARATO                                         14.80                 376.00
+11.30   12.01   COM.MANUTENCAO CONTA PACOTE MILLENNIUM GO               3.50                                 372.50
+11.30   12.01   IMPOSTO SELO ART 17.3.4                                 0.14                                 372.36
+                SALDO FINAL                                                                                  372.36
+                SALDO DISPONIVEL                                                                             372.36
+
+ULTRAPASSAGEM DE CREDITO                                              TAXA ANUAL NOMINAL: 15.30000%
+
+
+
+
+SUCURSAL :      MILLENNIUM BCP
+Centro de Contactos: 707 50 24 24 / 91 827 24 24 / 93 522 24 24 / 96 599 24 24
+  20/11/30                                          CONTA:     45572639426                    PAG:   003
+
+
+
+
+APLICACOES FINANCEIRAS
+                                                                                                  DATA
+           PRODUTO             MOEDA        NUMERO            SALDO    PRAZO          TAXA    VENCIMENTO
+POUPANCA ORDENADO               EUR      3112252955           150.00    030 D                  2020/12/02
+POUPANCA ORDENADO               EUR      3112634650            50.00    030 D                  2020/12/05
+
+CARTEIRA DE SEGUROS
+
+SEGUROS PESSOAIS:
+
+PRODUTO                       RAMO / NIF / EMPRESTIMO                     N.APOLICE CAPITAL SEGURO MOEDA
+                                                                           /CERTIF.  /EMPRESTIMO
+ASSISTENCIA                    Seguro Viagem ON/OFF                       AV78603542
+      NUMERO DE AUTORIZACAO DE DEBITO: 00200978665 CODIGO DA ENTIDADE CREDORA: 100919
+
+AGENDA:        OPERACOES A OCORRER NOS PROXIMOS 30 DIAS
+
+       APLICACOES
+
+                                                                                                 DATA
+PRODUTO                                        NUMERO                  MONTANTE    MOEDA     VEMCIMENTO
+  POUPANCA ORDENADO                         3112252955                    150.00    EUR       2020/12/02
+  POUPANCA ORDENADO                         3112634650                     50.00    EUR       2020/12/05
+
+
+
+
+SUCURSAL :   MILLENNIUM BCP
+Centro de Contactos: 707 50 24 24 / 91 827 24 24 / 93 522 24 24 / 96 599 24 24
+

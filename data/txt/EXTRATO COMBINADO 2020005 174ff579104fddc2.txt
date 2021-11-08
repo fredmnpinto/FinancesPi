@@ -1,0 +1,109 @@
+               20/09/30                                             CONTA:       45572639426
+
+
+
+
+                      EXTRATO COMBINADO
+                                N. 2020/005
+CE05666/01
+
+
+
+
+                                                                                  MOEDA BASE: EURO
+
+                                                                                  BIC/SWIFT: BCOMPTPL
+
+
+             RESUMO DO EXTRATO
+                                                                             SALDOS CREDORES              SALDOS DEVEDORES
+                  DEPOSITOS A ORDEM                                                    131.67
+
+             NOS TERMOS DA LEGISLACAO EM VIGOR CONFIRMAMOS QUE OS DEPOSITOS CONTRATADOS SAO GARANTIDOS PELO FUNDO DE
+             GARANTIA DE DEPOSITOS NOS TERMOS CONSTANTES DO FORMULARIO DE INFORMACAO DO DEPOSITANTE (FID)
+             DISPONIBILIZADO ANUALMENTE A TODOS OS DEPOSITANTES E PERMANENTEMENTE ACESSIVEL PARA CONSULTA EM QUALQUER
+             SUCURSAL E EM WWW.MILLENNIUMBCP.PT.
+             NOS TERMOS DA LEGISLACAO EM VIGOR, HA ENTIDADES E/OU DEPOSITOS QUE ESTAO EXCLUIDOS DA GARANTIA DE
+             REEMBOLSO DE DEPOSITOS, SENDO ESSES DEPOSITANTES INFORMADOS INDIVIDUALMENTE DA EXCLUSAO NO MOMENTO DA
+             CELEBRACAO DO CONTRATO DE ABERTURA DE CONTA OU NO MOMENTO EM QUE O BANCO TOME        CONHECIMENTO DAS
+             SITUACOES QUE MOTIVARAM ESSA EXCLUSAO.
+             PODERA OBTER MAIS INFORMACOES EM WWW.FGD.PT.
+             MENSAGEM
+
+                          **** REGULAMENTO GERAL PROTECAO DE DADOS ****
+                          DECORRIDOS MAIS DE DOIS ANOS DESDE A APLICACAO OBRIGATORIA DO
+                          REGULAMENTO GERAL DE PROTECAO DE DADOS, REAFIRMAMOS O NOSSO
+                          COMPROMISSO EM RELACAO A PROTECAO DOS SEUS DADOS. SABE COMO, NA NOSSA
+                          POLITICA DE PRIVACIDADE.
+                          CONTINUAMOS A TRABALHAR PARA MERECER A TUA CONFIANCA.
+
+
+
+             MILLENNIUM 18-30                 N. 45572639426                                         MOEDA: EUR
+
+             EXTRATO DE 2020/09/01 A 2020/09/30
+
+             ULTRAPASSAGEM CREDITO - TAN: 15.50000%
+
+             DATA DATA
+             LANC. VALOR DESCRITIVO                                            DEBITO           CREDITO            SALDO
+                        SALDO INICIAL                                                                              168.19
+             9.02 9.02 COMPRA 3128 BCM-BRICOLAGE, SA 4470- CONTACTLESS            3.79                             164.40
+             9.03 9.03 COMPRA 3128 MCDONALD S GAIA FOJO440 CONTACTLESS           10.20                             154.20
+             9.04 9.04 COMPRA 3128 BRICO DEPOT GAIA VILA N CONTACTLESS            2.45                             151.75
+             9.07 9.07 COMPRA 3128 FARMACIA SA DA 4445-524 ERMESINDE              4.52                             147.23
+             9.07 9.07 COMPRA 3128 MCDONALD S ERMESINDE                           5.10                             142.13
+             9.07 9.07 COMPRA 3128 EST SERVICO POSTO BP AGUAS SANTAMAI           10.00                             132.13
+             9.07 9.07 COMPRA 3128 PINGO DOCE MAIA AGUAMAI CONTACTLESS            2.61                             129.52
+                         A TRANSPORTAR                                                                             129.52
+
+
+             SUCURSAL :   MILLENNIUM BCP
+             Centro de Contactos: 707 50 24 24 / 91 827 24 24 / 93 522 24 24 / 96 599 24 24
+  20/09/30                                                 CONTA:    45572639426             PAG:     002
+
+
+
+
+DATA DATA
+LANC. VALOR DESCRITIVO                                              DEBITO         CREDITO          SALDO
+            TRANSPORTE                                                                              129.52
+9.07   9.07    COMPRA 3128 PINGO DOCE MAIA AGUAMAI CONTACTLESS        0.99                          128.53
+9.07   9.07    COMPRA 3128 CONTINENTE MAIA MAIA    CONTACTLESS        3.01                          125.52
+9.07   9.07    COMPRA 3128 CONTINENTE MAIA MAIA    CONTACTLESS        1.10                          124.42
+9.10   9.10    COMPRA 3128 COQUETEL SABORES CANVIL CONTACTLESS       11.48                          112.94
+9.10   9.10    COMPRA 3128 COQUETEL SABORES CANVIL CONTACTLESS        0.20                          112.74
+9.10   9.10    COMPRA 3128 CONTINENTE BOM DIA VILA CONTACTLESS        2.98                          109.76
+9.11   9.11    COMPRA 3128 CONTINENTE BOM DIA VILA CONTACTLESS        3.55                          106.21
+9.14   9.14    COMPRA 3128 AUCHAN GAIA VILA NOVA G CONTACTLESS        2.94                          103.27
+9.14   9.14    COMPRA 3128 AUCHAN CANIDELO VILA NO CONTACTLESS        3.99                           99.28
+9.14   9.14    COMPRA 3128 AUCHAN CANIDELO VILA NO CONTACTLESS        1.90                           97.38
+9.14   9.14    COMPRA 3128 MCDONALD S GAIA FOJO4400-232 CANIDE        6.40                           90.98
+9.14   9.14    PAG SERV 12101/640310566 HPME SA                      11.49                           79.49
+9.21   9.21    COMPRA 3128 CONTINENTE MAIA MAIA    CONTACTLESS        9.73                           69.76
+9.21   9.21    COMPRA 3128 MCDONALDS ERMESINDE ERM CONTACTLESS        3.60                           66.16
+9.22   9.22    COMPRA 3128 LOJAS PRIMARK PORTO-P. CONTACTLESS         6.00                           60.16
+9.23   9.23    COMPRA 3128 LILIANA PATRICIA CABAGU CONTACTLESS       10.00                           50.16
+9.24   9.24    TRF DE BARBARA NACARATO                                               22.00           72.16
+9.25   9.25    COMPRA 3128 MCDONALD S GAIA FOJO440 CONTACTLESS        3.95                           68.21
+9.25   9.25    COMPRA 3128 SABOR GAUCHO GAIA VILA NOVA DE GAIA        5.50                           62.71
+9.28   9.28    COMPRA 3128 BURGER KING NO DO FO440 CONTACTLESS        2.70                           60.01
+9.28   9.28    COMPRA 3128 BURGER KING NO DO FO440 CONTACTLESS        8.95                           51.06
+9.28   9.28    COMPRA 3128 RE V N GAIA V N GAIA    CONTACTLESS       15.00                           36.06
+9.28   9.28    COMPRA 3128 LIDL E COMPANHIA,LDA440 CONTACTLESS        1.49                           34.57
+9.28   9.28    TRF DE Alex                                                          140.00          174.57
+9.29   9.29    PAG SERV 10511/098130088 PORTO EDITORA, S.A           16.86                          157.71
+9.30   9.30    COMPRA 3128 BRASA RIO VILA NOVA DE CONTACTLESS        16.90                          140.81
+9.30   9.30    COMPRA 3128 OLA ARRABIDA VILA NOVA CONTACTLESS         3.50                          137.31
+9.30   9.30    COMPRA 3128 TIGER PORTUGAL, SA 4400-346 V N GAI        2.00                          135.31
+9.30   10.01   COM.MANUTENCAO CONTA PACOTE MILLENNIUM GO              3.50                          131.81
+9.30   10.01   IMPOSTO SELO ART 17.3.4                                0.14                          131.67
+               SALDO FINAL                                                                          131.67
+               SALDO DISPONIVEL                                                                     131.67
+
+
+
+
+SUCURSAL :     MILLENNIUM BCP
+Centro de Contactos: 707 50 24 24 / 91 827 24 24 / 93 522 24 24 / 96 599 24 24
+

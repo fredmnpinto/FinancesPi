@@ -1,0 +1,66 @@
+Banco
+Comercial
+Português,
+S.A.,
+sociedade
+aberta
+-
+Sede:
+Praça
+D.
+João
+I,
+28,
+Porto,
+Capital
+Social:
+Euros
+4.725.000.000,00
+-
+Matric.
+na
+Cons.
+do
+Reg.
+Com.
+do
+Porto,
+com
+o
+nº
+único
+de
+matrícula
+e
+de
+identificação
+fiscal
+501
+525
+882
+CE05095/01 Nota de Lançamento
+Nr.Doc. 12055885140
+Conta Depósitos à Ordem nº: 45572639426
+Moeda da Conta: EUR
+IBAN: PT50003300004557263942605
+Nº Contribuinte: 295376996
+FREDERICO MARTINS NORONHA PINTO
+R DR ANTONIO SOUSA OLIVEIRA 115 2 D
+4425-071 MAIA
+Lisboa, 17 de maio de 2021
+(Documento Processado por Computador) Pág. 1/1
+707 50 24 24
+www.millenniumbcp.pt Atendimento personalizado 24H
+Exmo(a). Senhor(a),
+Informamos que, relativamente à conta de Depósitos à Ordem acima mencionada, efetuámos o(s) seguinte(s) movimento(s):
+Operação: Transferência MB WAY
+Dados da Operação Moeda
+N/Referencia 1086000160061
+Montante 10,00 EUR
+Descritivo da Transferência na Conta TRF MB WAY DE BARBARA NACARATO
+Data do Movimento 16/05/2021
+Data valor 16/05/2021
+Total Creditado 10,00 EUR
+Com os nossos melhores cumprimentos,
+Banco Comercial Português, S.A.
+

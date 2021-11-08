@@ -1,0 +1,151 @@
+               20/08/31                                                     CONTA:            45572639426   NIB:     #S#   003300004557263942605     #E#
+
+
+
+
+                                                                   #S#FREDERICO MARTINS NORONHA PINTO                       #E#
+
+
+
+
+                                                                   #S#R DR ANTONIO SOUSA OLIVEIRA 115 2 D                   #E#
+
+
+
+
+                                                                   #S#4425-071 MAIA     #E#
+
+
+
+
+                                                                   #S##E#
+
+
+
+
+                      EXTRATO COMBINADO
+                                N. 2020/004
+CE05666/01
+
+
+
+
+                                                                                                 MOEDA BASE: EURO
+
+                                                                                                 IBAN: PT50 0033 0000 4557 2639 4260 5
+                                                                                               #S#                                             #E#
+
+
+
+
+                                                                                                 BIC/SWIFT: BCOMPTPL
+
+
+             RESUMO DO EXTRATO
+                                                                                     SALDOS CREDORES                              SALDOS DEVEDORES
+                  DEPOSITOS A ORDEM                                                            168.19
+
+             NOS TERMOS DA LEGISLACAO EM VIGOR CONFIRMAMOS QUE OS DEPOSITOS CONTRATADOS SAO GARANTIDOS PELO FUNDO DE
+             GARANTIA DE DEPOSITOS NOS TERMOS CONSTANTES DO FORMULARIO DE INFORMACAO DO DEPOSITANTE (FID)
+             DISPONIBILIZADO ANUALMENTE A TODOS OS DEPOSITANTES E PERMANENTEMENTE ACESSIVEL PARA CONSULTA EM QUALQUER
+             SUCURSAL E EM WWW.MILLENNIUMBCP.PT.
+             NOS TERMOS DA LEGISLACAO EM VIGOR, HA ENTIDADES E/OU DEPOSITOS QUE ESTAO EXCLUIDOS DA GARANTIA DE
+             REEMBOLSO DE DEPOSITOS, SENDO ESSES DEPOSITANTES INFORMADOS INDIVIDUALMENTE DA EXCLUSAO NO MOMENTO DA
+             CELEBRACAO DO CONTRATO DE ABERTURA DE CONTA OU NO MOMENTO EM QUE O BANCO TOME        CONHECIMENTO DAS
+             SITUACOES QUE MOTIVARAM ESSA EXCLUSAO.
+             PODERA OBTER MAIS INFORMACOES EM WWW.FGD.PT.
+             MENSAGEM
+
+                          **** MIGRACAO PARA EXTRATO DIGITAL ****
+                          RELEMBRAMOS QUE A PARTIR DE 30 DE SETEMBRO 2020, OS CLIENTES
+                          PARTICULARES COM E-MAIL REGISTADO NO BANCO OU QUE SEJAM UTILIZADORES
+                          DO SITE OU DA APP MILLENNIUM, PASSARAO A RECEBER OS DOCUMENTOS DA
+                          CONTA POR E-MAIL E/OU A PODER CONSULTA-LOS EM WWW.MILLENNIUMBCP.PT.
+                          CASO PRETENDAS CONTINUAR A RECEBER O EXTRATO DE CONTA PELO CORREIO,
+                          BASTA CONTACTARES-NOS ATRAVES DOS NUMEROS:
+                          707502424/918272424/935222424/965992424.
+
+
+
+             MILLENNIUM 18-30                 N. 45572639426                                                        MOEDA: EUR
+
+             EXTRATO DE 2020/07/01 A 2020/08/31
+
+             ULTRAPASSAGEM CREDITO - TAN: 15.50000%
+
+             DATA DATA
+             LANC. VALOR DESCRITIVO                                                    DEBITO               CREDITO                        SALDO
+                        SALDO INICIAL                                                                                                       48.73
+             7.01 7.01 DD LU96000000 PayPal (Europe) 5HPJ224YL66GN                        42.99                                              5.74
+             7.02 7.02 COMPRA 3128 G2A.COM INTERNET                                        5.00                                              0.74
+             7.07 7.08 DEPOSITO NUMERARIO   0692312 91160206059                                                10.00                        10.74
+             7.08 7.08 COMPRA 3128 LILIANA PATRICIA CABAGU CONTACTLESS                    10.00                                              0.74
+             7.28 7.28 TRF DE Alex                                                                            110.00                       110.74
+                         A TRANSPORTAR                                                                                                     110.74
+
+
+             SUCURSAL :   MILLENNIUM BCP
+             Centro de Contactos: 707 50 24 24 / 91 827 24 24 / 93 522 24 24 / 96 599 24 24
+  20/08/31                                                 CONTA:    45572639426             PAG:     002
+
+
+
+
+DATA DATA
+LANC. VALOR DESCRITIVO                                              DEBITO         CREDITO          SALDO
+            TRANSPORTE                                                                              110.74
+7.31   7.31   COMPRA 3128 PINGO DOCE MAIA AGUAMAI CONTACTLESS         2.95                          107.79
+7.31   8.03   COM.MANUTENCAO CONTA PACOTE MILLENNIUM GO               3.50                          104.29
+7.31   8.03   IMPOSTO SELO ART 17.3.4                                 0.14                          104.15
+8.03   8.03   COMPRA 3128 MCDONALDS ERMESINDE ERM CONTACTLESS         2.20                          101.95
+8.04   8.04   COMPRA 3128 CONTINENTE MAIA 4425-11 CONTACTLESS         2.99                           98.96
+8.05   8.05   COMPRA 3128 LILIANA PATRICIA CABAGU CONTACTLESS        10.00                           88.96
+8.06   8.06   TRF MB WAY DE GUILHERME NACARATO                                       30.00          118.96
+8.06   8.06   REFORCO POUPANCA ORDENADO 3097284982                   30.00                           88.96
+8.06   8.07   DEPOSITO NUMERARIO   0692312 31880171189                               50.00          138.96
+8.06   8.07   DEPOSITO NUMERARIO   0692312 31880171191                               20.00          158.96
+8.06   8.06   COMPRA 3128 AZUL PROFUNDO 1990-032 CONTACTLESS          4.20                          154.76
+8.07   8.07   COMPRA 3128 CP LISBOA ORIENTE LISBOA                    5.00                          149.76
+8.07   8.07   COMPRA 3128 CP LISBOA ORIENTE LISBOA                    5.50                          144.26
+8.07   8.07   COMPRA 3128 TIME TEA E COFFE LISBOA                     7.80                          136.46
+8.10   8.10   COMPRA 3128 RECEITAS TROPICAIS 1070-158 LISBOA         29.80                          106.66
+8.10   8.08   LIQ PARCIAL POUPANCA ORDENADO 3097284982                              212.00          318.66
+8.10   8.08   LIQ TOTAL POUPANCA ORDENADO 3097284982                                152.00          470.66
+8.10   8.10   TRF MB WAY P/ *****9829                                76.00                          394.66
+8.10   8.09   TRF MB WAY DE VICTORIA SILVA                                            3.50          398.16
+8.10   8.09   TRF MB WAY DE BARBARA NACARATO                                        120.00          518.16
+8.10   8.10   COMPRA 3128 CP POVOA POVOA SANTA IRIA                   5.00                          513.16
+8.10   8.10   COMPRA 3128 CP POVOA POVOA SANTA IRIA                   5.00                          508.16
+8.10   8.10   TRF MB WAY P/ *****6072                               200.00                          308.16
+8.10   8.10   COMPRA 3128 CONTINENTE L I S B O A CONTACTLESS          3.47                          304.69
+8.10   8.10   COMPRA 3128 SUBWAY LISBOA            CONTACTLESS        5.48                          299.21
+8.10   8.10   LEV ATM 3128 BESCL Lisboa        Gal C Gare Ori        10.00                          289.21
+8.12   8.12   COMPRA 3128 UBER TRIP HELP.UBER.COMPR                   9.90                          279.31
+8.12   8.12   COMPRA 3128 RYANAIR QNF0 BODRUM TU                    212.00                           67.31
+8.12   8.12   CUSTO DE SERVICO INTERNACIONAL                          6.36                           60.95
+8.12   8.12   IMPOSTO DO SELO                                         0.25                           60.70
+8.14   8.14   COMPRA 3128 CONTINENTE BOM DIA VILA CONTACTLESS         7.76                           52.94
+8.17   8.17   COMPRA 3128 REQUINTEFRANCESINHAS4450-150 MATOSI        13.25                           39.69
+8.17   8.17   COMPRA 3128 MCDONALD S GAIA FOJO440 CONTACTLESS        10.20                           29.49
+8.17   8.17   COMPRA 3128 CONTINENTE MAIA 4425-11 CONTACTLESS         9.03                           20.46
+8.18   8.18   COMPRA 3128 PINGO DOCE MAIA AGUAMAI CONTACTLESS         2.54                           17.92
+8.20   8.20   COMPRA 3128 CONTINENTE MAIA 4425-11 CONTACTLESS         3.08                           14.84
+8.20   8.20   COMPRA 3128 PINGO DOCE MAIA AGUAMAI CONTACTLESS         2.38                           12.46
+8.21   8.21   COMPRA 3128 CONTINENTE MAIA 4425-11 CONTACTLESS         1.24                           11.22
+8.24   8.24   COMPRA 3128 FARMACIA PALMILHEIRA444 CONTACTLESS         8.95                            2.27
+8.28   8.28   TRF DE Alex                                                           110.00          112.27
+8.28   8.28   COMPRA 3128 BRASA RIO VILA NOVA DE CONTACTLESS         14.95                           97.32
+8.31   8.31   COMPRA 3128 AUCHAN GAIA VILA NOVA G CONTACTLESS         3.09                           94.23
+8.31   8.31   COMPRA 3128 MCDONALD S GAIA FOJO440 CONTACTLESS         2.40                           91.83
+8.31   8.30   TRF DE celular                                                         80.00          171.83
+8.31   9.01   COM.MANUTENCAO CONTA PACOTE MILLENNIUM GO               3.50                          168.33
+8.31   9.01   IMPOSTO SELO ART 17.3.4                                 0.14                          168.19
+              SALDO FINAL                                                                           168.19
+              SALDO DISPONIVEL                                                                      168.19
+
+
+
+
+SUCURSAL :    MILLENNIUM BCP
+Centro de Contactos: 707 50 24 24 / 91 827 24 24 / 93 522 24 24 / 96 599 24 24
+

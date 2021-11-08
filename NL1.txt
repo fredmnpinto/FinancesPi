@@ -1,0 +1,102 @@
+Fatura-Recibo
+N.º FR IDSM121/01396526
+
+Data emissão: 2021-01-29
+Conta Dep. Ordem: 45572639426
+
+FREDERICO MARTINS NORONHA PINTO
+R DR ANTONIO SOUSA OLIVEIRA 115 2 D
+4425-071 MAIA
+
+#S#
+
+#E#
+
+#S#
+
+#S#
+
+#E#
+
+#E#
+
+CE05138/01
+
+Moeda da Conta: EUR
+IBAN: PT50003300004557263942605
+Nº Contribuinte: 295376996
+
+jcbZdoB230f6Ih5yyAnqZjcbZ
+ZlXZotMWEfJNpOuq1b:B0ZlXZ
+bzbSyPYSUXPuSZTUxvZyQcczR
+XDAqM20yUBmNbnuYfpCY:mSO2
+QJ5WLYaDcjWXUk3jZQUkzjkmP
+Nlo8dFzrtCR0wfuQ1NDTLOvR8
+rRtSv8I7CqDOGwHEkXuErUOO:
+AUxLjJsSqjQxprUm;4Hyrvyf0
+:VuSnusjFByuSyCkoBzquSkX8
+qS6qFsa8:9xaw4RglPwO2uFhR
+rFOSsAOebiFAhBqg7HRRj;gr8
+;XrpoZlF58xvkG9RQNff62k:P
+EpMVYQ5LqxKtHP7pbTj9QvIP8
+Lh0L7kj1KuRxpZ4R9dI3xvNhP
+jcbZbk6vMOFuSjUW:hkhuSno8
+ZlXZ1SWQP;NoDeZx451Vs85c0
+zzzPP00zzP0tPzP00zttttzzP
+
+Informamos que, relativamente à conta de Depósitos à Ordem acima mencionada, efetuámos o(s) seguinte(s) movimento(s):
+Operação: MAN. CTA PACOTE MILLENNIUM GO
+Dados de Operação
+Data do Movimento
+Data Valor da Operação
+Pagamento da comissão mensal na conta nº
+
+2021-01-29
+2021-01-29
+45572639426
+
+Dados de Faturação
+Comissão referente a 01/2021
+(1)
+Imp. Selo art.17.3.4 da Tab. Geral - 4%
+
+3,50
+0,14
+
+EUR
+EUR
+
+Total de Faturação
+
+3,64
+
+EUR
+
+Total
+Banco Comercial Português, S.A., sociedade aberta - Sede: Praça D. João I, 28, Porto,
+Capital Social: Euros 4.725.000.000,00 - Matric. na Cons. do Reg. Com. do Porto, com o nº único de matrícula e de identificação fiscal 501 525 882
+
+Moeda
+
+Total a Movimentar
+
+Débito (DB)/Crédito (CR)
+3,64
+
+DB
+
+(1) Isento de IVA nos termos da alinea c) do n.º 27) do artigo 9.º do Código do IVA
+
+Com os nossos melhores cumprimentos,
+
+Banco Comercial Português, S.A.
+
+D29F-Processado por programa certificado N.º 2405/AT
+Pág. 1/1
+
+707 50 24 24
+www.millenniumbcp.pt
+
+Atendimento personalizado 24H
+
+
